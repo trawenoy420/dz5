@@ -1,5 +1,4 @@
 import os
-import json
 os.getcwd()
 path = 'C:\\Users\\Asus\\Desktop'
 os.chdir(path)
